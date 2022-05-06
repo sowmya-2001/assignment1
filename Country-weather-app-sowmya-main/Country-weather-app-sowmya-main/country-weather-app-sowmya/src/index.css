@@ -1,0 +1,21 @@
+:root {
+    box-sizing: border-box;
+    --indigo: #8b7aae;
+    --indigo-dark: #a985a4;
+    --backgroundColor: #4e474e;
+    --foregroundColor: #f2b8f4;
+  }
+  
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: var(--backgroundColor);
+    color: grey;
+    -webkit-font-smoothing:var(--foregroundColor)
+  }
+  
+  code {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  
